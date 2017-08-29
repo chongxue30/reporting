@@ -1,0 +1,28 @@
+#main{
+height:550px; 
+margin-top:20px; 
+margin-left:100px; 
+margin-right:10px; 
+}
+#title{
+height:40px; 
+margin-left:10px; 
+margin-right:10px;
+}
+#dates{
+	width:100px; background-color:#3399FF
+}
+#reminds{
+	height:60px; margin-left:10px; margin-right:10px;
+}
+#results{
+	float:left; width:900px; height:60px; margin-left:10px; margin-right:10px;
+}
+#charts{
+	height:400px; margin-top:20px; margin-left:10px; margin-right:10px;
+}
+ 
+ td{ 
+ border:1px solid #3399FF; 
+ text-align:center
+ }
